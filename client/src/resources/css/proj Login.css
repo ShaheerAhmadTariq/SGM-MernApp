@@ -1,0 +1,38 @@
+.bg{
+    background-image: url('https://css.zohostatic.com/iam/M_5017488/v2/components/images/bg.svg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.form-container{
+    border: 1px solid #fff;
+    padding: 50px 60px;
+    margin-top: 100px;
+    background-color: lightgray;
+    -webkit-box-shadow: 0px 2px 5px 10px rgba(255,255,255,0.36);
+-moz-box-shadow: 0px 2px 5px 10px rgba(255,255,255,0.36);
+box-shadow: 0px 2px 5px 10px rgba(255,255,255,0.36);
+}
+.parent{
+    text-align: center;
+}
+.child{
+    margin: 50px auto;
+    
+}
+#fontsize{
+    font-size: 26px;
+    font-family: 'ZohoPuvi', Georgia;
+}
+span{
+    margin-left:0px;
+}
+#forgot{
+    font-size: 16px;
+    color: #626262;
+    text-align: center;
+    margin-top: 5px;
+    width: 100%;
+    margin-bottom: 15px;
+    cursor: pointer;
+}

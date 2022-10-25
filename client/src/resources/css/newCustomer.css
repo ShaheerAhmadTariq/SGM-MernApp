@@ -1,0 +1,37 @@
+.formBox{
+    padding: 50px;
+}
+
+td{
+    margin-left: 10px;
+    padding-left: 0px;
+}
+
+.underline{
+    text-decoration: underline dotted;
+}
+
+#staticDiv{
+    /* position: fixed; */
+    margin-bottom: 0px;
+}
+
+
+.fixed-actions {
+    
+    bottom: 0;
+    box-shadow: 0 -4px 5px -3px rgba(0,0,0,.1);
+    background-color: #fff;
+    width: calc(100% - 200px);
+    z-index: 3;
+    text-align: center
+}
+
+.fixed-actions button {
+    margin: 10px;
+    width: 100px
+}
+
+.bold{
+    text-decoration: bold;
+}

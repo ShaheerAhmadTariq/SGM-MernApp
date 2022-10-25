@@ -1,0 +1,62 @@
+
+Hp@DESKTOP-74VF7RQ MINGW64 ~/Documents/Uni-Documents/Semester-06/Web technologies/Lab/reactApp/my-react-app (main)
+$ git add -A
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/App.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/bootstrap.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Footer-Dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Header-Dark.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/bootstrap.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/font-awesome.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/fontawesome-all.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/styles.css.
+The file will have its original line endings in your working directory
+
+Hp@DESKTOP-74VF7RQ MINGW64 ~/Documents/Uni-Documents/Semester-06/Web technologies/Lab/reactApp/my-react-app (main)
+$ git commit -m'Added by shaheer'
+[main f5c1469] Added by shaheer
+ 19 files changed, 698 insertions(+), 8 deletions(-)
+ create mode 100644 public/bootstrap.min.js
+ create mode 100644 src/Footer-Dark.css
+ create mode 100644 src/Header-Dark.css
+ create mode 100644 src/bootstrap.min.css
+ create mode 100644 src/dataTables.bootstrap5min.css
+ create mode 100644 src/font-awesome.min.css
+ create mode 100644 src/fontawesome-all.min.css
+ create mode 100644 src/javascript.js
+ create mode 100644 src/proj Login.css
+ create mode 100644 src/style.css
+ create mode 100644 src/styles.css
+ create mode 100644 src/textile.jpg
+
+Hp@DESKTOP-74VF7RQ MINGW64 ~/Documents/Uni-Documents/Semester-06/Web technologies/Lab/reactApp/my-react-app (main)
+$ git push -u origin main
+Enumerating objects: 33, done.
+Counting objects: 100% (33/33), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (23/23), done.
+Writing objects: 100% (23/23), 1.12 MiB | 925.00 KiB/s, done.
+Total 23 (delta 8), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (8/8), completed with 7 local objects.
+To https://github.com/ShaheerAhmadTariq/SGM-WEB.git
+   8a2fc42..f5c1469  main -> main
+branch 'main' set up to track 'origin/main'.
+
+Hp@DESKTOP-74VF7RQ MINGW64 ~/Documents/Uni-Documents/Semester-06/Web technologies/Lab/reactApp/my-react-app (main)
+$

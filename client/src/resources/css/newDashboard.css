@@ -1,0 +1,33 @@
+.myContainer{
+    margin: 30px
+}
+/* .myContainer div{
+    margin: 30px;
+} */
+
+.receivables{
+        margin-left: 10px;
+        margin-top: 20px;
+        /* border: 0.01px solid lightgray; */
+        
+}
+.current{
+    margin: 20px
+}
+h6{
+    color: #2F8F9D
+}
+.sales{
+
+    margin-top: 20px;
+    
+}
+#my-chart.column {
+    height: 200px;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+.lightBg{
+    background: #fafafa;
+}
+
