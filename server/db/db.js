@@ -1,4 +1,4 @@
-// DB=mongodb+srv://shaheerahmad:xybFAupulKU4pN3d@sgm.kze22.mongodb.net/?retryWrites=true&w=majority
+
 
 import mongoose from "mongoose"
 const connectDB=async ()=>{
